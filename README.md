@@ -2,8 +2,8 @@
 
 #  ShibaFarm
 
-<a href="https://www.youtube.com/watch?v=FWYNIrOunEM">
-  <img src="https://img.youtube.com/vi/FWYNIrOunEM/maxresdefault.jpg" width="100%">
+<a href="https://www.youtube.com/watch?v=v_Yiy6YaMwg">
+  <img src="https://img.youtube.com/vi/v_Yiy6YaMwg/maxresdefault.jpg" width="100%">
 </a>
 
 </div>
