@@ -9,7 +9,7 @@
 </div>
 
 ###  Game Concept
-ShibaFarm is a game about a Shiba Inu who inherits a massive debt from his father. To pay it all back, you have to work hard every day chopping trees, planting crops, fishing, and mining. Every cent you earn goes toward paying off the debt collectors until you're finally free.
+A farming simulation where players control a Shiba Inu working to repay an inherited family debt. Features core mechanics like farming, fishing, and mining with a focus on monthly debt deadlines.
 
 ###  Technical Work
 In this project, I focused on making the code clean and easy to work with for the whole team:
